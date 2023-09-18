@@ -1,1 +1,2 @@
 This is another new feature
+developer-2 added some changes
